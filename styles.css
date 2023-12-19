@@ -1,0 +1,19 @@
+h1 {
+  text-decoration: underline;
+}
+
+.btn-container {
+  display: flex;
+  gap: 10px;
+}
+
+.video-container {
+  display: flex;
+  gap: 40px;
+  margin: 30px 0 0 0;
+}
+
+.video-frame {
+  height: 350px;
+  width: 500px;
+}
